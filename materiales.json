@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "articulo": "Balón futbol",
+        "cantidad": 10
+    },
+    {
+        "id": 2,
+        "articulo": "Balón básquetbol",
+        "cantidad": 6
+    },
+    {
+        "id": 3,
+        "articulo": "Balón voleibol",
+        "cantidad": 10
+    },
+    {
+        "id": 4,
+        "articulo": "Pelota béisbol",
+        "cantidad": 20
+    },
+    {
+        "id": 5,
+        "articulo": "Bat béisbol",
+        "cantidad": 10
+    },
+    {
+        "id": 6,
+        "articulo": "Guante béisbol",
+        "cantidad": 20
+    },
+    {
+        "id": 7,
+        "articulo": "Porterías",
+        "cantidad": 10
+    },
+    {
+        "id": 8,
+        "articulo": "Red voleibol",
+        "cantidad": 3
+    },
+    {
+        "id": 9,
+        "articulo": "Vallas",
+        "cantidad": 10
+    },
+    {
+        "id": 10,
+        "articulo": "Aros",
+        "cantidad": 15
+    },
+    {
+        "id": 11,
+        "articulo": "Guante béisbol",
+        "cantidad": 9
+    },
+    {
+        "id": 12,
+        "articulo": "Gorras",
+        "cantidad": 12
+    }
+]

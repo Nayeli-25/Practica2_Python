@@ -1,0 +1,26 @@
+[
+    {
+        "persona": "Laura",
+        "material": "Bat béisbol",
+        "cantidad": 2,
+        "fecha": "12-01-2021"
+    },
+    {
+        "persona": "Nayeli",
+        "material": "Aros",
+        "cantidad": 2,
+        "fecha": "20-02-2021"
+    },
+    {
+        "persona": "Daniel",
+        "material": "Guante béisbol",
+        "cantidad": 4,
+        "fecha": "03-12-2020"
+    },
+    {
+        "persona": "Laura",
+        "material": "Red voleibol",
+        "cantidad": 2,
+        "fecha": "12-12-2020"
+    }
+]
